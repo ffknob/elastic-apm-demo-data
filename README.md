@@ -1,2 +1,2 @@
-# elastic-apm-demo-data
-Elastic APM demo: Data
+# Elastic APM demo: Data
+
